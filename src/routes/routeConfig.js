@@ -1,0 +1,1 @@
+// lazy laod your views here and create routes for them
